@@ -1,3 +1,8 @@
 let age = prompt('What is your age?');
 
-// Your code below:
+let newage = parseInt(age) + 10;
+
+console.log(newage);
+
+
+

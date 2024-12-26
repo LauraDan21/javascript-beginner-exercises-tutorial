@@ -13,6 +13,6 @@ const fireGun = (bulletPosition) => {
         return ("You're dead!");
     }
     else return ("Keep playing!");
-};
+}
 
 console.log(fireGun(spinChamber()));
